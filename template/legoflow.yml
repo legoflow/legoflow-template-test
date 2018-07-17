@@ -1,8 +1,8 @@
 # 参数说明: https://legoflow.com/wiki/config.html
 
-name: ww
+name: [name]
 
-version: cli@2.0.0-beta.26
+version: [c_version]
 
 type: Vue.js
 

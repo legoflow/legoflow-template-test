@@ -1,7 +1,7 @@
 {
-  "name": "ww",
-  "version": "0.0.1",
-  "author": "UED.lijialiang",
+  "name": "[name]",
+  "version": "[version]",
+  "author": "[author]",
   "description": "",
   "dependencies": {
     "axios": "^0.18.0",
